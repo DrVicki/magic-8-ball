@@ -1,5 +1,7 @@
 # Magic 8-Ball with React & JavaScript
 
+
+
 Today we’ll look at how to create Conclusion
 We can create a magic 8 ball app easily with React and JavaScript..
 
